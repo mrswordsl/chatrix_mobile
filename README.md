@@ -1,6 +1,8 @@
 # chatrix_mobile
 chatrix_mobile
 
+[Update 1.0.4](https://github.com/mrswordsl/chatrix_mobile/releases/tag/1.0.4)
+
 [Update 1.0.3](https://github.com/mrswordsl/chatrix_mobile/releases/tag/1.0.3)
 
 [Update 1.0.2](https://github.com/mrswordsl/chatrix_mobile/releases/tag/1.0.2)
